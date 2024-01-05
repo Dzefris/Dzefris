@@ -7,12 +7,9 @@ apiVersion: v28
 kind: Human
 metadata:
   name: Dzefris Dizdarevic
-    -
-      MNE: Džefris Dizdarević
-    -
-      ENG: Jeffries Dizdarevich
-    -
-      IPA: ˈʤefris dizdareʋitɕ
+  MNE: Džefris Dizdarević
+  ENG: Jeffries Dizdarevich
+  IPA: ˈʤefris dizdareʋitɕ
 spec:
   work:
     -
@@ -34,7 +31,7 @@ spec:
     - 
       type: LinkedIn
       how: https://www.linkedin.com/in/dzefris
-   - 
+    - 
       type: Xing
       how: https://www.xing.com/profile/Dzefris_Dizdarevic
     -
