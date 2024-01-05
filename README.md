@@ -51,3 +51,8 @@ spec:
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Dzefris_Dizdarevic)
 
 🙋‍♀️ Feel free to contact and ask me anything!
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake.svg">
+</picture>
