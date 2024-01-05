@@ -1,4 +1,4 @@
-# Oh hi 👋 Oh hallo 👋 Ó szia 👋 Oh cześć 👋 О здраво 👋 اوه مرحبا 👋 안녕
+# Oh hi 👋 Oh hallo 👋 Ó szia 👋 Oh cześć 👋 О здраво 👋 أهلاً 👋 안녕
 
 ![header-tech](./assets/header_tech.png)
 
@@ -30,7 +30,7 @@ spec:
   contact:
     - 
       type: In Person
-      how: Lufthansa Group offices in Frankfurt area
+      how: Lufthansa Group offices in Frankfurt area and Cafes in Karlsruhe area
     - 
       type: LinkedIn
       how: https://www.linkedin.com/in/dzefris
