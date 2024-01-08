@@ -53,3 +53,5 @@ spec:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake.svg">
 </picture>
+
+🤫 Pssst! If a snake animation is not loading, click on it. Don’t worry, it doesn’t bite. 🐍
