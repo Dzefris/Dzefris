@@ -45,7 +45,7 @@ spec:
 ```
 
 [![LinkedIn](https://img.shields.io/badge/dzefris-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzefris)
-[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Dzefris_Dizdarevic)
+[![XING](https://img.shields.io/badge/dizdarevic-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Dzefris_Dizdarevic)
 
 🙋‍♀️ Feel free to contact and ask me anything!
 
