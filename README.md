@@ -1,4 +1,4 @@
-# Oh hi 👋 Oh hallo 👋 Ó szia 👋 Oh cześć 👋 О здраво 👋 أهلاً 👋 안녕
+# hi 👋 hallo 👋 szia 👋 cześć 👋 здраво 👋 أهلاً 👋 안녕
 
 ![header-tech](./assets/header_tech.png)
 
