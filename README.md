@@ -3,7 +3,7 @@
 ![header-tech](./assets/header_tech.png)
 
 ```yaml
-apiVersion: v28
+apiVersion: v31
 kind: Human
 metadata:
   name: Dzefris Dizdarevic
@@ -13,10 +13,8 @@ metadata:
 spec:
   work:
     -
-      company: Lufthansa Systems @ Lufthansa Group
-      mainRole: Providing architectural consultancy and methodological guidance to all LSY teams
-      sideRole: Lufthansa Systems Brand Ambassador
-      team: Architectural Enablement @ Technology Center of Excellence
+      company: Lufthansa Technik @Lufthansa Group
+      mainRole: Senior Enterprise Architect
   education:
     -
       mainUniversity: Izmir University of Economics
@@ -27,7 +25,7 @@ spec:
   contact:
     - 
       type: In Person
-      how: Lufthansa Group offices in Frankfurt area and Cafes in Karlsruhe area
+      how: Lufthansa Group offices in Frankfurt & Hamburg area and Cafes in Karlsruhe area
     - 
       type: LinkedIn
       how: https://www.linkedin.com/in/dzefris
@@ -40,7 +38,7 @@ spec:
   funFact:
     lived: 🇲🇪 🇧🇦 🇹🇷 🇱🇻 🇩🇪
     traveled: 🇰🇾 🇺🇸 🇰🇷 🇹🇼 🇭🇰 🇲🇴 🇸🇮 🇷🇸 🇲🇰 🇽🇰 🇧🇬 🇦🇱 🇬🇷 🇭🇺 🇸🇰 🇦🇹 🇨🇿 🇪🇪 🇱🇹 🇵🇱 🇫🇷 🇱🇮 🇨🇭 🇱🇺 🇧🇪 🇳🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇩🇰 🇸🇪 🇮🇹 🇻🇦 🇳🇴 🇮🇪 🇮🇩 🇪🇸
-    sports: 🚵‍♂️ 🎾 ⛷️
+    sports: 🚵‍♂️ 🎾 ⛷️ ⛳
     languages: 🇲🇪 🇬🇧 🇹🇷 🇩🇪
 ```
 
@@ -49,9 +47,4 @@ spec:
 
 🙋‍♀️ Feel free to contact and ask me anything!
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dzefris/Dzefris/output/github-contribution-grid-snake.svg">
 </picture>
-
-🤫 Pssst! If a snake animation is not loading, click on it. Don’t worry, it doesn’t bite. 🐍
