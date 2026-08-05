@@ -25,7 +25,7 @@ spec:
   contact:
     - 
       type: In Person
-      how: Lufthansa Group offices in Frankfurt & Hamburg area and Cafes in Karlsruhe area
+      how: Lufthansa Group offices in Frankfurt & Hamburg areas and Cafes in Karlsruhe area
     - 
       type: LinkedIn
       how: https://www.linkedin.com/in/dzefris
