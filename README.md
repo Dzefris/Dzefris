@@ -37,7 +37,7 @@ spec:
       how: dzefris@hotmail.com
   funFact:
     lived: 🇲🇪 🇧🇦 🇹🇷 🇱🇻 🇩🇪
-    traveled: 🇰🇾 🇺🇸 🇰🇷 🇹🇼 🇭🇰 🇲🇴 🇸🇮 🇷🇸 🇲🇰 🇽🇰 🇧🇬 🇦🇱 🇬🇷 🇭🇺 🇸🇰 🇦🇹 🇨🇿 🇪🇪 🇱🇹 🇵🇱 🇫🇷 🇱🇮 🇨🇭 🇱🇺 🇧🇪 🇳🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇩🇰 🇸🇪 🇮🇹 🇻🇦 🇳🇴 🇮🇪 🇮🇩 🇪🇸
+    traveled: 54 countries
     sports: 🚵‍♂️ 🎾 ⛷️ ⛳
     languages: 🇲🇪 🇬🇧 🇹🇷 🇩🇪
 ```
